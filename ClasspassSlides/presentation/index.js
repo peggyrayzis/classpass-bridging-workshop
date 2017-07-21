@@ -88,7 +88,7 @@ export default class Presentation extends React.Component {
               textAlign="left"
               lineHeight={1.1}
             >
-              REACT NATIVE BRIDGING
+              REACT NATIVE TRAINING
             </Text>
             <Text
               textColor="secondary"
@@ -99,7 +99,7 @@ export default class Presentation extends React.Component {
               textAlign="left"
               lineHeight={1.1}
             >
-              CLASSPASS WORKSHOP
+              BRIDGING WORKSHOP
             </Text>
             <Link href="https://twitter.com/peggyrayzis">
               <Text
